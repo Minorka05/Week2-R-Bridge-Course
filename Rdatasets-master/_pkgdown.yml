@@ -1,9 +1,0 @@
-template:
-  params:
-    bootswatch: readable
-navbar:
-  title: Rdatasets
-  type: default
-  left:
-    - text: Available datasets
-      href: articles/data.html
